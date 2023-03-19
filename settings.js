@@ -17,32 +17,32 @@ const chalk = require('chalk')
 
 
 
-//👇 if you need seen massage use " true "
+//👇 if you need seen message use " true "
 global.READ_MASSAGE = 'false'
-//👇 enable desable Girls Voice Reply
+//👇 enable disable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['23170777447'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝙱𝚢 𝙳𝚛. 𝙱𝚛𝚒𝚐𝚑𝚝'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
-//👇 Inbox massage block PM block
+//👇 Inbox message block PM block
 global.INBOX_BLOCK =  'off'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'Dr. Bright' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'Dr. Bright' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'SCP Foundation' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '𝕯𝖗. 𝕭𝖗𝖎𝖌𝖍𝖙' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -63,9 +63,9 @@ global.KICK_MSG = '*✅ Success Remove from Group*'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆️ Uploading Your Song...```'
 //👇 212 Number block
-global.NUMBER_212_BLOCK = 'true'
+global.NUMBER_212_BLOCK = 'false'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
@@ -105,9 +105,9 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['23170777447'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['23170777447'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Dr. Bright' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
